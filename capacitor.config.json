@@ -1,0 +1,7 @@
+{
+  "appId": "com.reactionicapp.com",
+  "appName": "React Ionic",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build"
+}
